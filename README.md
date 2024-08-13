@@ -16,14 +16,14 @@ It uses :
 * [UPBGE (Blender Game Engine)](https://upbge.org) for interactive rendering
 
 
-## Installing
+## Installing
 
 Install UPBGE and Mediapipe so mediapipe is available to the python used by UPBGE.
 
 Clone this repository to get the ThrooD project files.
 
 
-## Usage
+## Usage
 
 Launch the rendering of the "eyes.blend" project file with UPBGE.
 
@@ -34,7 +34,7 @@ This will display a scene made of cubes with a view point that is changed accord
 Use the ESC key to quit.
 
 
-## Warning
+## Warning
 
 The performances is poor for now.
 
